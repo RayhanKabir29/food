@@ -1,0 +1,13 @@
+@media and screen(max-width:320px){
+   .my-navbar {
+    background: red!important;
+}
+    .navbar-light .navbar-brand {
+    color: rgb(3,70,175);
+    font-weight: bold;
+    font-size: 30px;
+    position: absolute;
+    top: 0;
+    margin-left: 65px;
+}
+}
